@@ -1,0 +1,15 @@
+venv_python/
+.venv_python/
+.vscode/
+.log
+.sqlite3
+.ipynb_checkpoints/
+
+#Mypy
+.mypy_cache/
+.dmypy.json/
+
+#pyre
+.pyre/
+
+
